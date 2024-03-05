@@ -1,0 +1,20 @@
+{
+  "name": "simple-http",
+  "version": "1.0.0",
+  "description": "This is a test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Js"
+  ],
+  "author": "Ian and Claire",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
